@@ -1,0 +1,2 @@
+# Impact-of-Covid-19-on-Air-Pollution
+The objective of this project is to gauge the impact of nationwide lockdown in India due to Coronavirus on air pollution. Since the majority of the contaminants are released by vehicles and industries, which were brought to a standstill because of the lockdown, the pollution levels in all major cities were visibly clear. Our main aim is to assess the impact of lockdown on air quality in major cities in India, such as Delhi, Mumbai, Hyderabad and Chennai. We will be analyzing pollutant levels for the period 2016-2020.
